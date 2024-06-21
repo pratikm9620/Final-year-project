@@ -1,0 +1,10 @@
+What is CBIS?
+
+A Computer-Based Information System (CBIS) is a set of interconnected components working together to collect,
+process, store, and distribute information to support decision-making, coordination, control, analysis, and
+visualization in an organization.A computer-based information system is a technologically implemented medium
+for recording, storing, and disseminating linguistic expressions, and for drawing conclusions from such 
+expressions (Langefors, 1973).
+These systems are designed to store and process information within organizations and usually consist of interrelated components that work
+together to collect, process, store, and disseminate information. Such information supports decision making,
+coordination, control, analysis, and visualization within the organization.
